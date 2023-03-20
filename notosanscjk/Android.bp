@@ -46,6 +46,6 @@ license {
 }
 
 prebuilt_font {
-    name: "NotoSansCJK-Regular.ttc",
-    src: "NotoSansCJK-Regular.ttc",
+    name: "NotoSansCJK-VF.otf.ttc",
+    src: "NotoSansCJK-VF.otf.ttc",
 }
