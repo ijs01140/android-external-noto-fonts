@@ -8,7 +8,7 @@ description:
 third_party {
   url {
     type: ARCHIVE
-    value: "https://github.com/notofonts/noto-cjk/tree/main/Sans/OTC"
+    value: "https://github.com/notofonts/noto-cjk/tree/main/Sans/Variable/OTC"
   }
   version: "2.004"
   license_note: "contains OFL fonts"
