@@ -86,7 +86,7 @@ android_test {
         "androidx.test.rules",
         "androidx.emoji_emoji",
         "mockito-target",
-        "truth",
+        "truth-prebuilt",
     ],
 
     test_suites: ["general-tests"],
