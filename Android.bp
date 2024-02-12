@@ -55,7 +55,7 @@ filegroup {
     name: "recovery_noto-fonts_dep",
     export_to_make_var: "recovery_noto-fonts_dep",
     srcs: [
-      "notosanscjk/NotoSansCJK-Regular.ttc",
+      "notosanscjk/NotoSansCJK-VF.otf.ttc",
       "notonaskharabicui/NotoNaskhArabicUI-Regular.ttf",
       "notosansarmenian/NotoSansArmenian-VF.ttf",
       "notosansbengaliui/NotoSansBengaliUI-VF.ttf",
